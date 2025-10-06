@@ -72,7 +72,7 @@ This project bridges science, data, and public decision-making — all in under 
 ##  Team
 
 - **[Preethika Yetukuri](https://www.linkedin.com/in/preethika-yetukuri/)** — Mathematical Sciences (B.S.), Clemson University
-- **[Pradhyun Yetukuri] (linkedin.com/in/pradhyun-yetukuri-7b843836b/)** — High School Sophomore, Indian Land High School
+- **[Pradhyun Yetukuri](linkedin.com/in/pradhyun-yetukuri-7b843836b/)** — High School Sophomore, Indian Land High School
 
 ---
 
