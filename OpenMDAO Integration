@@ -1,0 +1,4 @@
+### OpenMDAO Integration
+
+This project builds on an MDAO framework using [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO), which we forked and added an example notebook:
+[See the forked OpenMDAO with our notebook here](https://github.com/yourusername/OpenMDAO/blob/main/SpaceApps2025_OpenMDAO_AsteroidImpactSim.ipynb)
