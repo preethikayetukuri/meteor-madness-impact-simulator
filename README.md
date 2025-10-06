@@ -83,7 +83,7 @@ Interested in our work? Want to collaborate or learn more?
 Reach out via:
 - GitHub Issues
 - LinkedIn (see profiles above)
-- Email: preethika.yetukuri@gmail.com
+- Emails: preethika.yetukuri@gmail.com ; pradhyun.yetukuri@gmail.com
 
 ---
 
